@@ -8,7 +8,8 @@ Admin Panel:
 - Add, edit, and delete employee profiles.
 - Assign, edit, and delete tasks for employees.
 - View task completion status and generate reports.
-
+- Username (admin@gmail.com) password (123456)
+ 
 Employee Panel:
 - View assigned tasks and deadlines.
 - Update task progress and mark tasks as completed.
